@@ -3,15 +3,15 @@
   и их переопределение под различные устройства
 */
 :root {
---main-bg-image: url(../images/cover-image-dark.png);
---bg-color: #000028;
---main-font: 'IBM Plex mono';
---main-font-size: 18px;
---accent-color: #FF0070;
---text_color:#F1B2CE;
---heading-color: #DB00FF;
---section-title-color:#FF0070;
---theme-menu-color: #FF0070;
---title-decor-color: #000028;
---hidden-deco-color: #FF0070;
+  --image-main-bg: url(../images/cover-image-dark.png);
+  --color-bg: #000028;
+  --font-family-main: 'IBM Plex mono';
+  --font-size-main: 18px;
+  --color-accent: #FF0070;
+  --color-main-text: #F1B2CE;
+  --color-heading: #DB00FF;
+  --color-section-title: #FF0070;
+  --color-theme-menu: #FF0070;
+  --color-subtitle: #000028;
+  --color-hidden-deco: #FF0070;
 }
